@@ -1,0 +1,33 @@
+_repo: A-Circuit-Rider-s-Wife_23607
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harris, Corra
+    aliases:
+    - White, Corra May
+    - Harris, Corra May White
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '25937'
+    url: http://www.gutenberg.org/2009/agents/25937
+    wikipedia: http://en.wikipedia.org/wiki/Corra_May_Harris
+description: ''
+gutenberg_issued: '2007-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spouses of clergy -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Circuit riders -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcsh 'Domestic fiction'
+title: A Circuit Rider's Wife
+url: http://www.gutenberg.org/ebooks/23607
